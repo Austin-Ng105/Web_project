@@ -2,7 +2,7 @@
     "name" : "Getting Started",
     "desription" : "Build an Extension!",
     "version" : "1.0",
-    "manifest_version" : 3, 
+    "manifest_version" : 2, 
 "browser_action": {
     "default_popup": "popup/popup.html"
 },

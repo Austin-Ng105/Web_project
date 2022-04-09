@@ -1,6 +1,6 @@
 {
-    "name" : "Getting Started",
-    "description" : "Build an Extension!",
+    "name" : "Tab Lookup",
+    "description" : "Let's you know how long you have spent being at a browser tab",
     "version" : "1.0",
     "manifest_version" : 3, 
 "action": {
@@ -11,6 +11,5 @@
     "16":"Icons/icon16.png",
     "48":"Icons/icon48.png",
     "128":"Icons/icon128.png"
-
 }
 }

@@ -8,10 +8,9 @@
 },
 "icons":
 {
-    "16":"Icons/cat_pic.jpg",
-    "32":"Icons/cat_pic.jpg",
-    "48":"Icons/cat_pic.jpg",
-    "128":"Icons/cat_pic.jpg"
+    "16":"Icons/icon16.png",
+    "48":"Icons/icon48.png",
+    "128":"Icons/icon128.png"
 
 }
 }
